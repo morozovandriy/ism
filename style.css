@@ -27,6 +27,18 @@ a:link {
 a:visited {
   color: purple }
 address {
-  margin-top: 1em;
+  
   padding-top: 1em;
   border-top: thin dotted }
+p { 
+    color:  blue;
+    background-color: yellow;
+    font-family: fantasy;
+    font-size: 150px;
+}
+div {
+    display:  inline-flex;
+    width: 200px;
+    border-radius: 20%;
+    
+}
