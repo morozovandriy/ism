@@ -4,10 +4,13 @@ body {
         Times, serif;
   color: green;
   background-color: #d8da3d }
+.class {
+ opacity: 0.5;
+ color: red;
+}
 ul.navbar {
   list-style-type: none;
-  padding: 0;
-  margin: 0;
+  padding: 15px;
   position: absolute;
   top: 2em;
   left: 1em;
