@@ -6,7 +6,7 @@ body {
   background-color: #d8da3d }
 ul.navbar {
   list-style-type: none;
-  padding: 0;
+  padding: 10;
   margin: 0;
   position: absolute;
   top: 2em;
@@ -23,7 +23,7 @@ ul.navbar li {
 ul.navbar a {
   text-decoration: none }
 a:link {
-  color: blue }
+  color: green;}
 a:visited {
   color: purple }
 address {
