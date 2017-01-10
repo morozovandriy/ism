@@ -17,9 +17,10 @@ h1 {
         SunSans-Regular, sans-serif }
 ul.navbar li {
   background: white;
-  margin: 0.5em 0;
-  padding: 0.3em;
-  border-right: 1em solid black }
+}
+ul.navbar li:hover{
+color:red;
+}
 ul.navbar a {
   text-decoration: none }
 a:link {
