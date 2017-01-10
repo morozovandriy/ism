@@ -4,10 +4,13 @@ body {
         Times, serif;
   color: green;
   background-color: #d8da3d }
+.class {
+ opacity: 0.5;
+ color: red;
+}
 ul.navbar {
   list-style-type: none;
-  padding: 0;
-  margin: 0;
+  padding: 15px;
   position: absolute;
   top: 5em;
   left: 1em;
@@ -20,9 +23,12 @@ h1:hover{
 }
 ul.navbar li {
   background: white;
-  margin: 0.5em 0;
-  padding: 0.3em;
-  border-right: 3em solid black }
+}
+ul.navbar li:hover{
+color:red;
+}
+ul.navbar a {
+  text-decoration: none }
 a:link {
   color: black }
 a:visited {
